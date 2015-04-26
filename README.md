@@ -2,8 +2,7 @@ Uploading on 6 June 2015 ...Please Fork/Watch/Star
 
 #Box-Outside-Box:
 
-Box-Outside-Box is the architecture for my project [Canister](https://www.github.com/ramitsurana05/canister) to   
-secure up and use your containers without much trouble.
+Box-Outside-Box is the architecture for my project [Canister](https://www.github.com/ramitsurana05/canister) to secure up and use your containers without much trouble.
 
 #Architecture:
 
